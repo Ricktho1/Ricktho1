@@ -25,9 +25,9 @@ Following are the badges that I had achieved after qualifying Hacktoberfest and 
   
 <p align="center">
   
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Ricktho1&theme=onedark&hide_border=true&include_all_commits=true&count_private=false" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Ricktho1&theme=onedark&hide_border=true&include_all_commits=false&count_private=false" />
   
-  <img width="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ricktho1&theme=onedark&hide_border=true" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ricktho1&theme=onedark&hide_border=true" />
 
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricktho1&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
   
