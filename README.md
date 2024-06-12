@@ -1,5 +1,6 @@
 
 <div align="center">
+  
 # 💫 About Me: 
 Hello!
 I am Ricktho Sarkar,a passionate coder from West Bengal. I am currently a 2nd Year Undergraduate at Indian Institute of Technology (BHU) Varanasi. I’m currently working on Deep Learning related projects. My particular interest lies in Computer Vision and Robotics though I am open to explore other domains as well in the field of deep learning. I am well versed with the Pytorch and Tensorflow library though I generally prefer Pytorch. I have also quite some expertise in ROS and Linux from implementing packages for autonomous driving to trying to simulate bots and cars in Gazebo,Pybullet and Carla. I have also been learning and practicing DSA through competitive programming. Other than that I have also explored some parts of Software Development like app development where I had made few small projects and also some amount of Game Development in pygame and Godot. Besides I am in many important positions in my college which is a testimony to my qualities of being a responsible person.
@@ -26,7 +27,7 @@ Following are the badges that I had achieved after qualifying Hacktoberfest and 
   
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Ricktho1&theme=onedark&hide_border=true&include_all_commits=false&count_private=false" />
   
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ricktho1&theme=onedark&hide_border=true" />
+  <img height="400px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ricktho1&theme=onedark&hide_border=true" />
 
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricktho1&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
   
