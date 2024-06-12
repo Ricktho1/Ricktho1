@@ -19,9 +19,15 @@ Following are the badges that I had achieved after qualifying Hacktoberfest and 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ricktho1&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ricktho1&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricktho1&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<img height="40" src="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
+  
+<p align="center">
+  
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Ricktho1&theme=onedark&hide_border=true&include_all_commits=false&count_private=false" />
+  
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ricktho1&theme=onedark&hide_border=true" />
 
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricktho1&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  
 ---
 
