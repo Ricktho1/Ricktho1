@@ -21,7 +21,6 @@ Following are the badges that I had achieved after qualifying Hacktoberfest and 
 ---
 
 # 📊 GitHub Stats:
-<img height="40" src="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
   
 <p align="center">
   
