@@ -4,7 +4,13 @@
 # 💫 About Me: 
 <p align="left">
 Hello!
-I am Ricktho Sarkar,a passionate coder from West Bengal. I am currently a 2nd Year Undergraduate at Indian Institute of Technology (BHU) Varanasi. I’m currently working on Deep Learning related projects. My particular interest lies in Computer Vision and Robotics though I am open to explore other domains as well in the field of deep learning. I am well versed with the Pytorch and Tensorflow library though I generally prefer Pytorch. I have also quite some expertise in ROS and Linux from implementing packages for autonomous driving to trying to simulate bots and cars in Gazebo,Pybullet and Carla. I have also been learning and practicing DSA through competitive programming. Other than that I have also explored some parts of Software Development like app development where I had made few small projects and also some amount of Game Development in pygame and Godot. Besides I am in many important positions in my college which is a testimony to my qualities of being a responsible person.
+I'm Ricktho Sarkar, a 3rd-year Electrical Engineering student at IIT (BHU) Varanasi, and a passionate coder with a knack for problem-solving. My current focus is on Deep Learning, particularly in Computer Vision and Robotics. I'm a PyTorch advocate, but always up for exploring new frontiers within Deep Learning.
+
+Beyond Deep Learning, my experience spans ROS and Linux, where I've tackled projects like autonomous vehicle simulations and robot control in Gazebo, Pybullet, and Carla. My competitive programming background keeps my problem-solving skills sharp, while forays into app development and game creation showcase my software development versatility.
+
+My leadership roles within the college highlight my commitment and responsibility. But that's just the beginning – I'm eager to leverage my skills and enthusiasm to collaborate on impactful projects and continuously push the boundaries of AI and Robotics.
+
+### Want to learn more about my projects and experiences? Let's connect!
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Ricktho1&icon=6&color=4)](https://visitcount.itsvg.in)
