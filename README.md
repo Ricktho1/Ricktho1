@@ -4,7 +4,7 @@
 # 💫 About Me: 
 <p align="left">
 Hello!
-I'm Ricktho Sarkar, a final Electrical Engineering student at IIT (BHU) Varanasi, and a passionate coder with a knack for problem-solving. My current focus is on Deep Learning, particularly in Computer Vision and Robotics. I'm a PyTorch advocate, but always up for exploring new frontiers within Deep Learning. <br>
+I'm Ricktho Sarkar, a Msc student at UCL studying Robotics and Artificial Intelligence, and a passionate coder with a knack for problem-solving. My current focus is on Deep Learning, particularly in Computer Vision and Robotics. I'm a PyTorch advocate, but always up for exploring new frontiers within Deep Learning. <br>
 <br>Beyond Deep Learning, my experience spans ROS and Linux, where I've tackled projects like autonomous vehicle simulations and robot control in Gazebo, Pybullet, and Carla. My interest in competitive programming keeps my problem-solving skills sharp, while forays into app development and game creation showcase my software development versatility. <br> 
 <br>My leadership roles within the college highlight my commitment and responsibility. But that's just the beginning – I'm eager to leverage my skills and enthusiasm to collaborate on impactful projects and continuously push the boundaries of AI and Robotics.
 
